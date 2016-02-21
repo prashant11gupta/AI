@@ -1,0 +1,20 @@
+oradea  380  sibiu 151  zerind 71
+zerind  374  oradea 71  arad 75
+sibiu  253  oradea 151  rimnicu_vilcea 80  fagaras 99
+arad  366  sibiu 140  timisoara 118
+timisoara  329  arad 118  lugoj 111
+lugoj  244  timisoara 111  mehadia 70
+mehadia  241  lugoj 70  dobreta 75
+dobreta  242  mehadia 75  craiova 120
+craiova  160  dobreta 120  pitesti 138  rimnicu_vilcea 146
+rimnicu_vilcea  193  pitesti 97  sibiu 80
+fagaras  178  sibiu 99  bucharest 211
+pitesti  98  rimnicu_vilcea 97  bucharest 101
+bucharest  0  giurgiu 90  urziceni 85
+giurgiu  77  bucharest 90
+urziceni  80  bucharest 85  hirsova 98  vaslui 142
+hirsova  151  eforie 86
+eforie  161  hirsova 86
+vaslui  199  urziceni 142  lasi 92
+lasi  226  vaslui 92  neamt 87
+neamt  234  lasi 87
